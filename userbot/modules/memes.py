@@ -7,7 +7,8 @@
 """ Userbot module for having some fun. """
 
 import asyncio
-import random
+from random import choice, getrandbits, randint
+
 import re
 import time
 
